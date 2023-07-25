@@ -61,9 +61,9 @@
 				1AD46BE429462BC100949C03 /* AppDelegate.swift */,
 				1AD46BE629462BC100949C03 /* SceneDelegate.swift */,
 				1AD46BE829462BC100949C03 /* ViewController.swift */,
+				1AD46BF82946348200949C03 /* GrayViewController.swift */,
 				1AD46BEA29462BC100949C03 /* Main.storyboard */,
 				1AD46BED29462BC400949C03 /* Assets.xcassets */,
-				1AD46BF82946348200949C03 /* GrayViewController.swift */,
 				1AD46BEF29462BC400949C03 /* LaunchScreen.storyboard */,
 				1AD46BF229462BC400949C03 /* Info.plist */,
 			);
